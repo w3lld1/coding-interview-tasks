@@ -1,0 +1,13 @@
+# Runs of equal numbers
+
+**Difficulty:** easy · **Languages:** any of Python, JavaScript, TypeScript, Java, Go · **Topics:** [Arrays and lists](../arrays/)
+
+**[▶ Solve online on CodeShare](https://code-share.online/practice/MBPP-157?utm_source=github&utm_medium=tasks-repo)**
+
+Given a list of integers, compress it by replacing each group of consecutive equal numbers with a pair `[how many times, number]`. Return the list of pairs in group order. Equal numbers separated by a different number form different groups. An empty list gives an empty list.
+
+Example: `[1, 1, 2, 3, 3, 3]` → `[[2, 1], [1, 2], [3, 3]]`.
+
+---
+
+Source: [MBPP, task 157](https://github.com/google-research/google-research/tree/3bbd8fbea969c2ebee2bcce61711b5cd32b5ec32/mbpp) · © Google Research · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · statement rewritten

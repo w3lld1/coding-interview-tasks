@@ -1,0 +1,13 @@
+# Диаметр окружности
+
+**Сложность:** лёгкая · **Языки:** любой из Python, JavaScript, TypeScript, Java, Go · **Темы:** [Математика](../math/)
+
+**[▶ Решить онлайн на CodeShare](https://code-share.ru/practice/MBPP-499?utm_source=github&utm_medium=tasks-repo)**
+
+Дан радиус окружности. Верните её диаметр, то есть удвоенный радиус. Радиус может быть дробным, нулевой радиус даёт `0`.
+
+Пример: `15.0` → `30.0`.
+
+---
+
+Источник: [MBPP, задача 499](https://github.com/google-research/google-research/tree/3bbd8fbea969c2ebee2bcce61711b5cd32b5ec32/mbpp) · © Google Research · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · условие переведено и дополнено

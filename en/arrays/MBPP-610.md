@@ -1,0 +1,13 @@
+# Remove the k-th element
+
+**Difficulty:** easy · **Languages:** any of Python, JavaScript, TypeScript, Java, Go · **Topics:** [Arrays and lists](../arrays/)
+
+**[▶ Solve online on CodeShare](https://code-share.online/practice/MBPP-610?utm_source=github&utm_medium=tasks-repo)**
+
+Given a list of numbers and a number `k` (counting from one, `k >= 1`), return a new list without the `k`-th element; the order of the others stays. If the list has fewer than `k` elements, return a copy of the list unchanged. The input list must not be modified.
+
+Example: `[1, 2, 3, 4]`, `2` → `[1, 3, 4]`.
+
+---
+
+Source: [MBPP, task 610](https://github.com/google-research/google-research/tree/3bbd8fbea969c2ebee2bcce61711b5cd32b5ec32/mbpp) · © Google Research · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · statement rewritten

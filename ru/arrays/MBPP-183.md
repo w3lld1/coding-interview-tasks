@@ -1,0 +1,13 @@
+# Пары с заданной разностью
+
+**Сложность:** лёгкая · **Языки:** любой из Python, JavaScript, TypeScript, Java, Go · **Темы:** [Массивы и списки](../arrays/), [Словари и множества](../hashing/)
+
+**[▶ Решить онлайн на CodeShare](https://code-share.ru/practice/MBPP-183?utm_source=github&utm_medium=tasks-repo)**
+
+Дан список целых чисел и неотрицательное число `k`. Посчитайте пары позиций `i < j`, для которых модуль разности `numbers[i]` и `numbers[j]` равен `k`. Пары считаются по позициям: одинаковые значения на разных позициях дают разные пары. Для пустого списка ответ `0`.
+
+Пример: `[2, 4, 1, 3, 4]`, `2` → `3` (пары 2 и 4 — дважды, 1 и 3).
+
+---
+
+Источник: [MBPP, задача 183](https://github.com/google-research/google-research/tree/3bbd8fbea969c2ebee2bcce61711b5cd32b5ec32/mbpp) · © Google Research · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · условие переведено и дополнено

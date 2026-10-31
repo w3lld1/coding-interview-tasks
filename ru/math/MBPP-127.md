@@ -1,0 +1,13 @@
+# Умножение без оператора умножения
+
+**Сложность:** лёгкая · **Языки:** любой из Python, JavaScript, TypeScript, Java, Go · **Темы:** [Математика](../math/), [Функции и замыкания](../functions/)
+
+**[▶ Решить онлайн на CodeShare](https://code-share.ru/practice/MBPP-127?utm_source=github&utm_medium=tasks-repo)**
+
+Даны два целых числа, возможно отрицательных или нулевых. Верните их произведение, не используя оператор `*`: обойдитесь сложением, вычитанием и сдвигами. Результат помещается в 32-битное целое.
+
+Пример: `-3`, `7` → `-21`.
+
+---
+
+Источник: [MBPP, задача 127](https://github.com/google-research/google-research/tree/3bbd8fbea969c2ebee2bcce61711b5cd32b5ec32/mbpp) · © Google Research · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · условие переведено и дополнено
