@@ -1,6 +1,6 @@
 # Strings
 
-[← All topics](../../README.en.md) · Tasks: 424
+[← All topics](../../README.en.md) · Tasks: 334
 
 | Task | Difficulty | Language | |
 |---|---|---|---|
@@ -231,36 +231,26 @@
 | [Words with n consonants](HE-117.md) | easy | any | [▶](https://code-share.online/practice/HE-117?utm_source=github&utm_medium=tasks-repo) |
 | [Affine cipher](EX-1.md) | medium | any | [▶](https://code-share.online/practice/EX-1?utm_source=github&utm_medium=tasks-repo) |
 | [Alien rhyme](CJ-21.md) | medium | any | [▶](https://code-share.online/practice/CJ-21?utm_source=github&utm_medium=tasks-repo) |
-| [Anagram start positions](CS-130.md) | medium | any | [▶](https://code-share.online/practice/CS-130?utm_source=github&utm_medium=tasks-repo) |
 | [CamelCase to snake_case](MBPP-933.md) | medium | any | [▶](https://code-share.online/practice/MBPP-933?utm_source=github&utm_medium=tasks-repo) |
 | [Capital letter then lowercase at the end](MBPP-917.md) | medium | any | [▶](https://code-share.online/practice/MBPP-917?utm_source=github&utm_medium=tasks-repo) |
 | [Charging chaos](CJ-16.md) | medium | any | [▶](https://code-share.online/practice/CJ-16?utm_source=github&utm_medium=tasks-repo) |
 | [Closest possible scoreboard](CJ-71.md) | medium | any | [▶](https://code-share.online/practice/CJ-71?utm_source=github&utm_medium=tasks-repo) |
 | [Concatenate parenthesis strings](HE-119.md) | medium | any | [▶](https://code-share.online/practice/HE-119?utm_source=github&utm_medium=tasks-repo) |
-| [Count palindromic substrings](CS-41.md) | medium | any | [▶](https://code-share.online/practice/CS-41?utm_source=github&utm_medium=tasks-repo) |
 | [Dates in a page URL](MBPP-906.md) | medium | any | [▶](https://code-share.online/practice/MBPP-906?utm_source=github&utm_medium=tasks-repo) |
-| [Edit distance](CS-28.md) | medium | any | [▶](https://code-share.online/practice/CS-28?utm_source=github&utm_medium=tasks-repo) |
 | [First word ending in -ly](MBPP-440.md) | medium | any | [▶](https://code-share.online/practice/MBPP-440?utm_source=github&utm_medium=tasks-repo) |
 | [Guess the word by letters](EX-94.md) | medium | any | [▶](https://code-share.online/practice/EX-94?utm_source=github&utm_medium=tasks-repo) |
-| [Largest concatenated number](CS-159.md) | medium | any | [▶](https://code-share.online/practice/CS-159?utm_source=github&utm_medium=tasks-repo) |
 | [Largest Series Product](PY-17.md) | medium | any | [▶](https://code-share.online/practice/PY-17?utm_source=github&utm_medium=tasks-repo) |
 | [Largest zero surplus in a substring](MBPP-125.md) | medium | any | [▶](https://code-share.online/practice/MBPP-125?utm_source=github&utm_medium=tasks-repo) |
 | [Letter z inside a word](MBPP-643.md) | medium | any | [▶](https://code-share.online/practice/MBPP-643?utm_source=github&utm_medium=tasks-repo) |
-| [Lock with dead ends](CS-109.md) | medium | any | [▶](https://code-share.online/practice/CS-109?utm_source=github&utm_medium=tasks-repo) |
-| [Longest palindromic substring](CS-40.md) | medium | any | [▶](https://code-share.online/practice/CS-40?utm_source=github&utm_medium=tasks-repo) |
-| [Longest substring without repeats](CS-38.md) | medium | any | [▶](https://code-share.online/practice/CS-38?utm_source=github&utm_medium=tasks-repo) |
 | [Micro Blog](JAVA-19.md) | medium | any | [▶](https://code-share.online/practice/JAVA-19?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum swaps to balance brackets](MBPP-386.md) | medium | any | [▶](https://code-share.online/practice/MBPP-386?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum swaps to turn one binary string into another](MBPP-595.md) | medium | any | [▶](https://code-share.online/practice/MBPP-595?utm_source=github&utm_medium=tasks-repo) |
 | [Most common characters of a text](MBPP-946.md) | medium | any | [▶](https://code-share.online/practice/MBPP-946?utm_source=github&utm_medium=tasks-repo) |
-| [Multiply numbers as strings](CS-134.md) | medium | any | [▶](https://code-share.online/practice/CS-134?utm_source=github&utm_medium=tasks-repo) |
 | [n most common words with counts](MBPP-862.md) | medium | any | [▶](https://code-share.online/practice/MBPP-862?utm_source=github&utm_medium=tasks-repo) |
 | [Nested brackets as a subsequence](HE-132.md) | medium | any | [▶](https://code-share.online/practice/HE-132?utm_source=github&utm_medium=tasks-repo) |
 | [Number in English words](EX-29.md) | medium | any | [▶](https://code-share.online/practice/EX-29?utm_source=github&utm_medium=tasks-repo) |
 | [Odd values of rotated binary string](MBPP-109.md) | medium | any | [▶](https://code-share.online/practice/MBPP-109?utm_source=github&utm_medium=tasks-repo) |
-| [One letter after replacements](CS-42.md) | medium | any | [▶](https://code-share.online/practice/CS-42?utm_source=github&utm_medium=tasks-repo) |
 | [Overlap of two star patterns](CJ-99.md) | medium | any | [▶](https://code-share.online/practice/CJ-99?utm_source=github&utm_medium=tasks-repo) |
-| [Permutation inside a string](CS-43.md) | medium | any | [▶](https://code-share.online/practice/CS-43?utm_source=github&utm_medium=tasks-repo) |
 | [Pig Latin](EX-19.md) | medium | any | [▶](https://code-share.online/practice/EX-19?utm_source=github&utm_medium=tasks-repo) |
 | [Rail fence cipher](EX-24.md) | medium | any | [▶](https://code-share.online/practice/EX-24?utm_source=github&utm_medium=tasks-repo) |
 | [Rearrange letters with no equal neighbours](MBPP-39.md) | medium | any | [▶](https://code-share.online/practice/MBPP-39?utm_source=github&utm_medium=tasks-repo) |
@@ -268,34 +258,20 @@
 | [Rotation as a substring](HE-154.md) | medium | any | [▶](https://code-share.online/practice/HE-154?utm_source=github&utm_medium=tasks-repo) |
 | [Run-Length Encoding](PY-06.md) | medium | Python | [▶](https://code-share.online/practice/PY-06?utm_source=github&utm_medium=tasks-repo) |
 | [Shortest palindrome with prefix](HE-10.md) | medium | any | [▶](https://code-share.online/practice/HE-10?utm_source=github&utm_medium=tasks-repo) |
-| [Shortest window with all letters](CS-72.md) | medium | any | [▶](https://code-share.online/practice/CS-72?utm_source=github&utm_medium=tasks-repo) |
 | [Size of a list of strings in bytes](MBPP-596.md) | medium | any | [▶](https://code-share.online/practice/MBPP-596?utm_source=github&utm_medium=tasks-repo) |
-| [Smallest subsequence without repeats](CS-121.md) | medium | any | [▶](https://code-share.online/practice/CS-121?utm_source=github&utm_medium=tasks-repo) |
 | [Split on several delimiters](MBPP-73.md) | medium | any | [▶](https://code-share.online/practice/MBPP-73?utm_source=github&utm_medium=tasks-repo) |
-| [String to 32-bit integer](CS-132.md) | medium | any | [▶](https://code-share.online/practice/CS-132?utm_source=github&utm_medium=tasks-repo) |
-| [String with no equal neighbours](CS-114.md) | medium | any | [▶](https://code-share.online/practice/CS-114?utm_source=github&utm_medium=tasks-repo) |
 | [Substrings whose digit sum equals length](MBPP-61.md) | medium | any | [▶](https://code-share.online/practice/MBPP-61?utm_source=github&utm_medium=tasks-repo) |
 | [The repeater](CJ-17.md) | medium | any | [▶](https://code-share.online/practice/CJ-17?utm_source=github&utm_medium=tasks-repo) |
 | [Transpose](PY-09.md) | medium | any | [▶](https://code-share.online/practice/PY-09?utm_source=github&utm_medium=tasks-repo) |
-| [Unique letter frequencies](CS-166.md) | medium | any | [▶](https://code-share.online/practice/CS-166?utm_source=github&utm_medium=tasks-repo) |
 | [URL validation](MBPP-403.md) | medium | any | [▶](https://code-share.online/practice/MBPP-403?utm_source=github&utm_medium=tasks-repo) |
 | [Validate an email address](MBPP-774.md) | medium | any | [▶](https://code-share.online/practice/MBPP-774?utm_source=github&utm_medium=tasks-repo) |
-| [Wildcard match with ? and *](CS-78.md) | medium | any | [▶](https://code-share.online/practice/CS-78?utm_source=github&utm_medium=tasks-repo) |
 | [Word at the end of a string](MBPP-337.md) | medium | any | [▶](https://code-share.online/practice/MBPP-337?utm_source=github&utm_medium=tasks-repo) |
-| [Word break](CS-30.md) | medium | any | [▶](https://code-share.online/practice/CS-30?utm_source=github&utm_medium=tasks-repo) |
-| [Word chain](CS-6.md) | medium | any | [▶](https://code-share.online/practice/CS-6?utm_source=github&utm_medium=tasks-repo) |
 | [Word Count](PY-07.md) | medium | any | [▶](https://code-share.online/practice/PY-07?utm_source=github&utm_medium=tasks-repo) |
-| [Word pairs that form a palindrome](CS-177.md) | medium | any | [▶](https://code-share.online/practice/CS-177?utm_source=github&utm_medium=tasks-repo) |
 | [Word tail from the first a or e](MBPP-254.md) | medium | any | [▶](https://code-share.online/practice/MBPP-254?utm_source=github&utm_medium=tasks-repo) |
-| [Words glued from other words](CS-191.md) | medium | any | [▶](https://code-share.online/practice/CS-191?utm_source=github&utm_medium=tasks-repo) |
 | [Words of three to five characters](MBPP-330.md) | medium | any | [▶](https://code-share.online/practice/MBPP-330?utm_source=github&utm_medium=tasks-repo) |
-| [All valid strings after the fewest bracket removals](CS-204.md) | hard | any | [▶](https://code-share.online/practice/CS-204?utm_source=github&utm_medium=tasks-repo) |
 | [Coupling train cars without split letters](CJ-65.md) | hard | any | [▶](https://code-share.online/practice/CJ-65?utm_source=github&utm_medium=tasks-repo) |
 | [Cyclic digit pair substitutions](CJ-109.md) | hard | any | [▶](https://code-share.online/practice/CJ-109?utm_source=github&utm_medium=tasks-repo) |
 | [Double or bitwise NOT](CJ-85.md) | hard | any | [▶](https://code-share.online/practice/CJ-85?utm_source=github&utm_medium=tasks-repo) |
-| [Longest well-formed bracket fragment](CS-81.md) | hard | any | [▶](https://code-share.online/practice/CS-81?utm_source=github&utm_medium=tasks-repo) |
-| [Optimal full justification of text](CS-192.md) | hard | any | [▶](https://code-share.online/practice/CS-192?utm_source=github&utm_medium=tasks-repo) |
-| [Pattern match with dots and stars](CS-77.md) | hard | any | [▶](https://code-share.online/practice/CS-77?utm_source=github&utm_medium=tasks-repo) |
 | [Swaps to equalise binary strings](MBPP-838.md) | hard | any | [▶](https://code-share.online/practice/MBPP-838?utm_source=github&utm_medium=tasks-repo) |
 | [The killer word in Hangman](CJ-55.md) | hard | any | [▶](https://code-share.online/practice/CJ-55?utm_source=github&utm_medium=tasks-repo) |
 | [Typing a string with copy and paste](CJ-100.md) | hard | any | [▶](https://code-share.online/practice/CJ-100?utm_source=github&utm_medium=tasks-repo) |
@@ -305,131 +281,65 @@
 
 | Task | Difficulty | Language | |
 |---|---|---|---|
-| ["In N days" label](../dates/CS-615.md) | easy | any | [▶](https://code-share.online/practice/CS-615?utm_source=github&utm_medium=tasks-repo) |
-| [12-hour clock](../dates/CS-284.md) | easy | any | [▶](https://code-share.online/practice/CS-284?utm_source=github&utm_medium=tasks-repo) |
-| [A lamp row: off lamps first, then lit ones](../dp/CS-678.md) | easy | any | [▶](https://code-share.online/practice/CS-678?utm_source=github&utm_medium=tasks-repo) |
 | [All elements equal](../arrays/MBPP-201.md) | easy | any | [▶](https://code-share.online/practice/MBPP-201?utm_source=github&utm_medium=tasks-repo) |
 | [Binary digit sum](../math/HE-84.md) | easy | any | [▶](https://code-share.online/practice/HE-84?utm_source=github&utm_medium=tasks-repo) |
 | [Binary representation](../math/MBPP-99.md) | easy | any | [▶](https://code-share.online/practice/MBPP-99?utm_source=github&utm_medium=tasks-repo) |
-| [Cantor ruler](../recursion/CS-459.md) | easy | any | [▶](https://code-share.online/practice/CS-459?utm_source=github&utm_medium=tasks-repo) |
-| [Checkerboard colouring](../matrices/CS-505.md) | easy | any | [▶](https://code-share.online/practice/CS-505?utm_source=github&utm_medium=tasks-repo) |
 | [Concatenate adjacent strings](../arrays/MBPP-206.md) | easy | any | [▶](https://code-share.online/practice/MBPP-206?utm_source=github&utm_medium=tasks-repo) |
 | [Concatenate numbers into one](../math/MBPP-116.md) | easy | any | [▶](https://code-share.online/practice/MBPP-116?utm_source=github&utm_medium=tasks-repo) |
-| [Config line "key = value"](../errors/CS-326.md) | easy | any | [▶](https://code-share.online/practice/CS-326?utm_source=github&utm_medium=tasks-repo) |
-| [Connect Four winner](../matrices/CS-490.md) | easy | any | [▶](https://code-share.online/practice/CS-490?utm_source=github&utm_medium=tasks-repo) |
 | [Convert a number to another base](../math/HE-44.md) | easy | any | [▶](https://code-share.online/practice/HE-44?utm_source=github&utm_medium=tasks-repo) |
-| [Depth of mixed nested brackets](../stacks-lists/CS-526.md) | easy | any | [▶](https://code-share.online/practice/CS-526?utm_source=github&utm_medium=tasks-repo) |
-| [Duration as a clock](../dates/CS-281.md) | easy | any | [▶](https://code-share.online/practice/CS-281?utm_source=github&utm_medium=tasks-repo) |
-| [Duration in words](../dates/CS-296.md) | easy | any | [▶](https://code-share.online/practice/CS-296?utm_source=github&utm_medium=tasks-repo) |
-| [Error messages of installation steps](../async/CS-571.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-571?utm_source=github&utm_medium=tasks-repo) |
 | [Even and odd palindromes](../math/HE-107.md) | easy | any | [▶](https://code-share.online/practice/HE-107?utm_source=github&utm_medium=tasks-repo) |
-| [Falling blocks](../matrices/CS-504.md) | easy | any | [▶](https://code-share.online/practice/CS-504?utm_source=github&utm_medium=tasks-repo) |
-| [Frame around a drawing](../matrices/CS-493.md) | easy | any | [▶](https://code-share.online/practice/CS-493?utm_source=github&utm_medium=tasks-repo) |
 | [Glue two numbers into a fraction](../math/MBPP-553.md) | easy | any | [▶](https://code-share.online/practice/MBPP-553?utm_source=github&utm_medium=tasks-repo) |
-| [Gray code](../recursion/CS-453.md) | easy | any | [▶](https://code-share.online/practice/CS-453?utm_source=github&utm_medium=tasks-repo) |
-| [Hex colour "#RRGGBB" to numbers](../errors/CS-329.md) | easy | any | [▶](https://code-share.online/practice/CS-329?utm_source=github&utm_medium=tasks-repo) |
-| [How many texts a run of key presses can mean](../dp/CS-686.md) | easy | any | [▶](https://code-share.online/practice/CS-686?utm_source=github&utm_medium=tasks-repo) |
 | [Insert a string after every element](../arrays/MBPP-513.md) | easy | any | [▶](https://code-share.online/practice/MBPP-513?utm_source=github&utm_medium=tasks-repo) |
 | [Insert before each element](../arrays/MBPP-251.md) | easy | any | [▶](https://code-share.online/practice/MBPP-251?utm_source=github&utm_medium=tasks-repo) |
 | [ISBN-10 verifier](../parsing/EX-60.md) | easy | any | [▶](https://code-share.online/practice/EX-60?utm_source=github&utm_medium=tasks-repo) |
 | [Keys in a single case](../hashing/HE-95.md) | easy | any | [▶](https://code-share.online/practice/HE-95?utm_source=github&utm_medium=tasks-repo) |
-| [Lamps with no neighbours](../recursion/CS-452.md) | easy | any | [▶](https://code-share.online/practice/CS-452?utm_source=github&utm_medium=tasks-repo) |
-| [Letter case variants](../recursion/CS-458.md) | easy | any | [▶](https://code-share.online/practice/CS-458?utm_source=github&utm_medium=tasks-repo) |
 | [List made of one string](../arrays/MBPP-284.md) | easy | any | [▶](https://code-share.online/practice/MBPP-284?utm_source=github&utm_medium=tasks-repo) |
 | [Logs, Logs, Logs!](../parsing/JAVA-28.md) | easy | Java | [▶](https://code-share.online/practice/JAVA-28?utm_source=github&utm_medium=tasks-repo) |
 | [Lucky Numbers](../math/JS-03.md) | easy | JavaScript | [▶](https://code-share.online/practice/JS-03?utm_source=github&utm_medium=tasks-repo) |
 | [Luhn](../parsing/PY-08.md) | easy | any | [▶](https://code-share.online/practice/PY-08?utm_source=github&utm_medium=tasks-repo) |
 | [Matching Brackets](../stacks-lists/PY-04.md) | easy | any | [▶](https://code-share.online/practice/PY-04?utm_source=github&utm_medium=tasks-repo) |
-| [Mirror clock readings](../dates/CS-616.md) | easy | any | [▶](https://code-share.online/practice/CS-616?utm_source=github&utm_medium=tasks-repo) |
-| [Missing bits](../recursion/CS-464.md) | easy | any | [▶](https://code-share.online/practice/CS-464?utm_source=github&utm_medium=tasks-repo) |
 | [Month with 30 days](../dates/MBPP-191.md) | easy | any | [▶](https://code-share.online/practice/MBPP-191?utm_source=github&utm_medium=tasks-repo) |
 | [Note durations](../parsing/HE-17.md) | easy | any | [▶](https://code-share.online/practice/HE-17?utm_source=github&utm_medium=tasks-repo) |
-| [Outcome labels for jobs](../async/CS-548.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-548?utm_source=github&utm_medium=tasks-repo) |
-| [Painting rectangles](../matrices/CS-500.md) | easy | any | [▶](https://code-share.online/practice/CS-500?utm_source=github&utm_medium=tasks-repo) |
 | [Pairwise string concatenation](../arrays/MBPP-213.md) | easy | any | [▶](https://code-share.online/practice/MBPP-213?utm_source=github&utm_medium=tasks-repo) |
-| [Paper strip creases](../recursion/CS-467.md) | easy | any | [▶](https://code-share.online/practice/CS-467?utm_source=github&utm_medium=tasks-repo) |
 | [Parse a «(1, 2, 3)» string](../parsing/MBPP-785.md) | easy | any | [▶](https://code-share.online/practice/MBPP-785?utm_source=github&utm_medium=tasks-repo) |
-| [Pipeline of text steps](../functions/CS-351.md) | easy | any | [▶](https://code-share.online/practice/CS-351?utm_source=github&utm_medium=tasks-repo) |
 | [Planets between orbits](../arrays/HE-148.md) | easy | any | [▶](https://code-share.online/practice/HE-148?utm_source=github&utm_medium=tasks-repo) |
 | [Previous palindrome](../math/MBPP-909.md) | easy | any | [▶](https://code-share.online/practice/MBPP-909?utm_source=github&utm_medium=tasks-repo) |
 | [Prime string length](../math/HE-82.md) | easy | any | [▶](https://code-share.online/practice/HE-82?utm_source=github&utm_medium=tasks-repo) |
 | [Product of odd digits](../math/HE-131.md) | easy | any | [▶](https://code-share.online/practice/HE-131?utm_source=github&utm_medium=tasks-repo) |
-| [Rabbit word](../recursion/CS-462.md) | easy | any | [▶](https://code-share.online/practice/CS-462?utm_source=github&utm_medium=tasks-repo) |
 | [Raindrop sounds](../math/EX-82.md) | easy | any | [▶](https://code-share.online/practice/EX-82?utm_source=github&utm_medium=tasks-repo) |
 | [Remove matching pairs](../arrays/MBPP-484.md) | easy | any | [▶](https://code-share.online/practice/MBPP-484?utm_source=github&utm_medium=tasks-repo) |
 | [Resistor band color code](../hashing/EX-84.md) | easy | any | [▶](https://code-share.online/practice/EX-84?utm_source=github&utm_medium=tasks-repo) |
-| [Robot on a map with walls](../matrices/CS-495.md) | easy | any | [▶](https://code-share.online/practice/CS-495?utm_source=github&utm_medium=tasks-repo) |
 | [Rounded average in binary](../math/HE-103.md) | easy | any | [▶](https://code-share.online/practice/HE-103?utm_source=github&utm_medium=tasks-repo) |
 | [Season by date](../dates/MBPP-159.md) | easy | any | [▶](https://code-share.online/practice/MBPP-159?utm_source=github&utm_medium=tasks-repo) |
 | [Second most frequent string](../hashing/MBPP-829.md) | easy | any | [▶](https://code-share.online/practice/MBPP-829?utm_source=github&utm_medium=tasks-repo) |
 | [Sort each inner list of strings](../arrays/MBPP-104.md) | easy | any | [▶](https://code-share.online/practice/MBPP-104?utm_source=github&utm_medium=tasks-repo) |
-| [Spreadsheet column number](../errors/CS-336.md) | easy | any | [▶](https://code-share.online/practice/CS-336?utm_source=github&utm_medium=tasks-repo) |
-| [Switch panel settings](../recursion/CS-466.md) | easy | any | [▶](https://code-share.online/practice/CS-466?utm_source=github&utm_medium=tasks-repo) |
-| [Symmetry of an image](../matrices/CS-487.md) | easy | any | [▶](https://code-share.online/practice/CS-487?utm_source=github&utm_medium=tasks-repo) |
-| [Tag numbers with the conditions they meet](../functions/CS-356.md) | easy | any | [▶](https://code-share.online/practice/CS-356?utm_source=github&utm_medium=tasks-repo) |
-| [Text after typing with backspaces](../stacks-lists/CS-525.md) | easy | any | [▶](https://code-share.online/practice/CS-525?utm_source=github&utm_medium=tasks-repo) |
-| [Towers of Hanoi moves](../recursion/CS-454.md) | easy | any | [▶](https://code-share.online/practice/CS-454?utm_source=github&utm_medium=tasks-repo) |
 | [Undulating number](../math/MBPP-92.md) | easy | any | [▶](https://code-share.online/practice/MBPP-92?utm_source=github&utm_medium=tasks-repo) |
-| [Version number "major.minor.patch"](../errors/CS-335.md) | easy | any | [▶](https://code-share.online/practice/CS-335?utm_source=github&utm_medium=tasks-repo) |
-| [Words from phone keys](../recursion/CS-456.md) | easy | any | [▶](https://code-share.online/practice/CS-456?utm_source=github&utm_medium=tasks-repo) |
 | [All permutations of a string](../recursion/MBPP-374.md) | medium | any | [▶](https://code-share.online/practice/MBPP-374?utm_source=github&utm_medium=tasks-repo) |
-| [Balanced bracket strings](../recursion/CS-66.md) | medium | any | [▶](https://code-share.online/practice/CS-66?utm_source=github&utm_medium=tasks-repo) |
 | [Clean a phone number](../parsing/EX-78.md) | medium | any | [▶](https://code-share.online/practice/EX-78?utm_source=github&utm_medium=tasks-repo) |
 | [Codejamon cipher](../dp/CJ-36.md) | medium | any | [▶](https://code-share.online/practice/CJ-36?utm_source=github&utm_medium=tasks-repo) |
-| [Decimal number with digit separators](../parsing/CS-194.md) | medium | any | [▶](https://code-share.online/practice/CS-194?utm_source=github&utm_medium=tasks-repo) |
-| [Decode a digit string](../dp/CS-31.md) | medium | any | [▶](https://code-share.online/practice/CS-31?utm_source=github&utm_medium=tasks-repo) |
-| [Erasing runs of equal stickers](../stacks-lists/CS-276.md) | medium | any | [▶](https://code-share.online/practice/CS-276?utm_source=github&utm_medium=tasks-repo) |
-| [Expand bracketed repeats](../stacks-lists/CS-15.md) | medium | any | [▶](https://code-share.online/practice/CS-15?utm_source=github&utm_medium=tasks-repo) |
 | [Following a pattern](../hashing/MBPP-74.md) | medium | any | [▶](https://code-share.online/practice/MBPP-74?utm_source=github&utm_medium=tasks-repo) |
 | [Four most frequent words](../hashing/MBPP-13.md) | medium | any | [▶](https://code-share.online/practice/MBPP-13?utm_source=github&utm_medium=tasks-repo) |
-| [Fraction as a decimal string](../math/CS-163.md) | medium | any | [▶](https://code-share.online/practice/CS-163?utm_source=github&utm_medium=tasks-repo) |
-| [Group the anagrams](../hashing/CS-39.md) | medium | any | [▶](https://code-share.online/practice/CS-39?utm_source=github&utm_medium=tasks-repo) |
-| [How many binary strings fit the budget](../dp/CS-150.md) | medium | any | [▶](https://code-share.online/practice/CS-150?utm_source=github&utm_medium=tasks-repo) |
-| [Interleaving of two strings](../dp/CS-141.md) | medium | any | [▶](https://code-share.online/practice/CS-141?utm_source=github&utm_medium=tasks-repo) |
 | [K-th balanced parentheses](../dp/CJ-31.md) | medium | any | [▶](https://code-share.online/practice/CJ-31?utm_source=github&utm_medium=tasks-repo) |
 | [Ledger](../oop/JS-28.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-28?utm_source=github&utm_medium=tasks-repo) |
 | [Longest common subsequence length](../dp/MBPP-187.md) | medium | any | [▶](https://code-share.online/practice/MBPP-187?utm_source=github&utm_medium=tasks-repo) |
 | [Longest palindromic subsequence](../dp/MBPP-247.md) | medium | any | [▶](https://code-share.online/practice/MBPP-247?utm_source=github&utm_medium=tasks-repo) |
 | [Longest repeating subsequence](../dp/MBPP-207.md) | medium | any | [▶](https://code-share.online/practice/MBPP-207?utm_source=github&utm_medium=tasks-repo) |
-| [Longest word chain](../dp/CS-142.md) | medium | any | [▶](https://code-share.online/practice/CS-142?utm_source=github&utm_medium=tasks-repo) |
 | [Math word problem](../parsing/EX-34.md) | medium | any | [▶](https://code-share.online/practice/EX-34?utm_source=github&utm_medium=tasks-repo) |
-| [Menu pattern expansion](../recursion/CS-470.md) | medium | any | [▶](https://code-share.online/practice/CS-470?utm_source=github&utm_medium=tasks-repo) |
 | [Mini Markdown parser](../parsing/EX-14.md) | medium | any | [▶](https://code-share.online/practice/EX-14?utm_source=github&utm_medium=tasks-repo) |
-| [Month calendar grid](../dates/CS-319.md) | medium | any | [▶](https://code-share.online/practice/CS-319?utm_source=github&utm_medium=tasks-repo) |
 | [Next palindrome](../math/MBPP-100.md) | medium | any | [▶](https://code-share.online/practice/MBPP-100?utm_source=github&utm_medium=tasks-repo) |
 | [Next roaring year](../math/CJ-84.md) | medium | any | [▶](https://code-share.online/practice/CJ-84?utm_source=github&utm_medium=tasks-repo) |
-| [Palindrome from two-letter words](../hashing/CS-131.md) | medium | any | [▶](https://code-share.online/practice/CS-131?utm_source=github&utm_medium=tasks-repo) |
-| [Palindrome splits](../recursion/CS-70.md) | medium | any | [▶](https://code-share.online/practice/CS-70?utm_source=github&utm_medium=tasks-repo) |
 | [Pogo stick: shortest route](../math/CJ-22.md) | medium | any | [▶](https://code-share.online/practice/CJ-22?utm_source=github&utm_medium=tasks-repo) |
-| [Prefix tree](../oop/CS-64.md) | medium | any | [▶](https://code-share.online/practice/CS-64?utm_source=github&utm_medium=tasks-repo) |
 | [Regular Chatbot](../parsing/JS-20.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-20?utm_source=github&utm_medium=tasks-repo) |
-| [Remove k digits for the smallest number](../stacks-lists/CS-18.md) | medium | any | [▶](https://code-share.online/practice/CS-18?utm_source=github&utm_medium=tasks-repo) |
 | [Resistor label with tolerance](../parsing/EX-86.md) | medium | any | [▶](https://code-share.online/practice/EX-86?utm_source=github&utm_medium=tasks-repo) |
 | [Run-length encoding with single items kept](../arrays/MBPP-317.md) | medium | Python | [▶](https://code-share.online/practice/MBPP-317?utm_source=github&utm_medium=tasks-repo) |
-| [Selecting columns from CSV with quotes](../parsing/CS-651.md) | medium | any | [▶](https://code-share.online/practice/CS-651?utm_source=github&utm_medium=tasks-repo) |
 | [Shortest common supersequence length](../dp/MBPP-923.md) | medium | any | [▶](https://code-share.online/practice/MBPP-923?utm_source=github&utm_medium=tasks-repo) |
-| [Simplify a file path](../stacks-lists/CS-537.md) | medium | any | [▶](https://code-share.online/practice/CS-537?utm_source=github&utm_medium=tasks-repo) |
-| [Spelling a word on a rotating ring](../dp/CS-199.md) | medium | any | [▶](https://code-share.online/practice/CS-199?utm_source=github&utm_medium=tasks-repo) |
-| [Split digits into an IP address](../recursion/CS-135.md) | medium | any | [▶](https://code-share.online/practice/CS-135?utm_source=github&utm_medium=tasks-repo) |
-| [Text pipeline with conditional steps](../functions/CS-366.md) | medium | any | [▶](https://code-share.online/practice/CS-366?utm_source=github&utm_medium=tasks-repo) |
 | [Tournament](../hashing/PY-29.md) | medium | any | [▶](https://code-share.online/practice/PY-29?utm_source=github&utm_medium=tasks-repo) |
 | [Ugly expressions from digits](../dp/CJ-48.md) | medium | any | [▶](https://code-share.online/practice/CJ-48?utm_source=github&utm_medium=tasks-repo) |
-| [Ways to strike out letters down to a word](../dp/CS-88.md) | medium | any | [▶](https://code-share.online/practice/CS-88?utm_source=github&utm_medium=tasks-repo) |
 | [Word Search](../matrices/PY-22.md) | medium | Python | [▶](https://code-share.online/practice/PY-22?utm_source=github&utm_medium=tasks-repo) |
-| [A printer that prints runs](../dp/CS-203.md) | hard | any | [▶](https://code-share.online/practice/CS-203?utm_source=github&utm_medium=tasks-repo) |
-| [Add-and-subtract calculator with parentheses](../parsing/CS-82.md) | hard | any | [▶](https://code-share.online/practice/CS-82?utm_source=github&utm_medium=tasks-repo) |
 | [Albocede DNA subsequences](../dp/CJ-95.md) | hard | any | [▶](https://code-share.online/practice/CJ-95?utm_source=github&utm_medium=tasks-repo) |
-| [All shortest word chains](../trees-graphs/CS-175.md) | hard | any | [▶](https://code-share.online/practice/CS-175?utm_source=github&utm_medium=tasks-repo) |
 | [Arithmetic in a square](../trees-graphs/CJ-49.md) | hard | any | [▶](https://code-share.online/practice/CJ-49?utm_source=github&utm_medium=tasks-repo) |
-| [Editor with selection, clipboard and undo](../oop/CS-620.md) | hard | any | [▶](https://code-share.online/practice/CS-620?utm_source=github&utm_medium=tasks-repo) |
-| [Fewest cuts into palindromes](../dp/CS-89.md) | hard | any | [▶](https://code-share.online/practice/CS-89?utm_source=github&utm_medium=tasks-repo) |
-| [Letter order of an alien alphabet](../trees-graphs/CS-83.md) | hard | any | [▶](https://code-share.online/practice/CS-83?utm_source=github&utm_medium=tasks-repo) |
 | [Longest common subsequence of three strings](../dp/MBPP-747.md) | hard | any | [▶](https://code-share.online/practice/MBPP-747?utm_source=github&utm_medium=tasks-repo) |
-| [Number from English words](../parsing/CS-193.md) | hard | any | [▶](https://code-share.online/practice/CS-193?utm_source=github&utm_medium=tasks-repo) |
-| [Operators between digits to hit a target](../recursion/CS-92.md) | hard | any | [▶](https://code-share.online/practice/CS-92?utm_source=github&utm_medium=tasks-repo) |
 | [P-th bit string under constraints](../dp/CJ-102.md) | hard | any | [▶](https://code-share.online/practice/CJ-102?utm_source=github&utm_medium=tasks-repo) |
 | [Parallel Letter Frequency](../async/JAVA-16.md) | hard | Java | [▶](https://code-share.online/practice/JAVA-16?utm_source=github&utm_medium=tasks-repo) |
-| [Parsing a URL query string with nested keys](../parsing/CS-653.md) | hard | any | [▶](https://code-share.online/practice/CS-653?utm_source=github&utm_medium=tasks-repo) |
 | [Permuting blocks before RLE](../dp/CJ-47.md) | hard | any | [▶](https://code-share.online/practice/CJ-47?utm_source=github&utm_medium=tasks-repo) |
 | [Smallest route by ZIP codes](../trees-graphs/CJ-64.md) | hard | any | [▶](https://code-share.online/practice/CJ-64?utm_source=github&utm_medium=tasks-repo) |
-| [Words on a letter board](../trees-graphs/CS-74.md) | hard | any | [▶](https://code-share.online/practice/CS-74?utm_source=github&utm_medium=tasks-repo) |

@@ -1,6 +1,6 @@
 # Arrays and lists
 
-[← All topics](../../README.en.md) · Tasks: 629
+[← All topics](../../README.en.md) · Tasks: 487
 
 | Task | Difficulty | Language | |
 |---|---|---|---|
@@ -290,20 +290,14 @@
 | [Closest triple from three lists](MBPP-938.md) | medium | any | [▶](https://code-share.online/practice/MBPP-938?utm_source=github&utm_medium=tasks-repo) |
 | [Comb sort](MBPP-71.md) | medium | any | [▶](https://code-share.online/practice/MBPP-71?utm_source=github&utm_medium=tasks-repo) |
 | [Common elements in the same order](MBPP-508.md) | medium | any | [▶](https://code-share.online/practice/MBPP-508?utm_source=github&utm_medium=tasks-repo) |
-| [Container with most water](CS-48.md) | medium | any | [▶](https://code-share.online/practice/CS-48?utm_source=github&utm_medium=tasks-repo) |
 | [Count inversions](MBPP-296.md) | medium | any | [▶](https://code-share.online/practice/MBPP-296?utm_source=github&utm_medium=tasks-repo) |
 | [Deceitful war](CJ-15.md) | medium | any | [▶](https://code-share.online/practice/CJ-15?utm_source=github&utm_medium=tasks-repo) |
 | [Element after segment rotations](MBPP-304.md) | medium | any | [▶](https://code-share.online/practice/MBPP-304?utm_source=github&utm_medium=tasks-repo) |
 | [Elyse's Destructured Enchantments](JS-05.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-05?utm_source=github&utm_medium=tasks-repo) |
 | [Elyse's Transformative Enchantments](JS-17.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-17?utm_source=github&utm_medium=tasks-repo) |
-| [Equal zeros and ones](CS-126.md) | medium | any | [▶](https://code-share.online/practice/CS-126?utm_source=github&utm_medium=tasks-repo) |
-| [Fewest arrows for balloons](CS-158.md) | medium | any | [▶](https://code-share.online/practice/CS-158?utm_source=github&utm_medium=tasks-repo) |
-| [Fewest intervals to remove](CS-24.md) | medium | any | [▶](https://code-share.online/practice/CS-24?utm_source=github&utm_medium=tasks-repo) |
 | [First missing positive](MBPP-189.md) | medium | any | [▶](https://code-share.online/practice/MBPP-189?utm_source=github&utm_medium=tasks-repo) |
 | [Fresh chocolate](CJ-20.md) | medium | any | [▶](https://code-share.online/practice/CJ-20?utm_source=github&utm_medium=tasks-repo) |
 | [Gaps around intervals](MBPP-110.md) | medium | any | [▶](https://code-share.online/practice/MBPP-110?utm_source=github&utm_medium=tasks-repo) |
-| [Gas stations on a ring road](CS-54.md) | medium | any | [▶](https://code-share.online/practice/CS-54?utm_source=github&utm_medium=tasks-repo) |
-| [Insert an interval](CS-22.md) | medium | any | [▶](https://code-share.online/practice/CS-22?utm_source=github&utm_medium=tasks-repo) |
 | [K pairs with the smallest sums](MBPP-408.md) | medium | any | [▶](https://code-share.online/practice/MBPP-408?utm_source=github&utm_medium=tasks-repo) |
 | [K-th element of two sorted lists](MBPP-597.md) | medium | any | [▶](https://code-share.online/practice/MBPP-597?utm_source=github&utm_medium=tasks-repo) |
 | [Largest sublist sum](MBPP-559.md) | medium | any | [▶](https://code-share.online/practice/MBPP-559?utm_source=github&utm_medium=tasks-repo) |
@@ -315,45 +309,29 @@
 | [Maximum product of a subarray](MBPP-463.md) | medium | any | [▶](https://code-share.online/practice/MBPP-463?utm_source=github&utm_medium=tasks-repo) |
 | [Maximum product of an increasing run](MBPP-468.md) | medium | any | [▶](https://code-share.online/practice/MBPP-468?utm_source=github&utm_medium=tasks-repo) |
 | [Median of two sorted lists](MBPP-622.md) | medium | any | [▶](https://code-share.online/practice/MBPP-622?utm_source=github&utm_medium=tasks-repo) |
-| [Meeting rooms](CS-23.md) | medium | any | [▶](https://code-share.online/practice/CS-23?utm_source=github&utm_medium=tasks-repo) |
-| [Merge intervals](CS-21.md) | medium | any | [▶](https://code-share.online/practice/CS-21?utm_source=github&utm_medium=tasks-repo) |
 | [Milkshake batches](CJ-2.md) | medium | any | [▶](https://code-share.online/practice/CJ-2?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum jumps to the end](MBPP-689.md) | medium | any | [▶](https://code-share.online/practice/MBPP-689?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum platforms for a station](MBPP-846.md) | medium | any | [▶](https://code-share.online/practice/MBPP-846?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum removals to a small spread](MBPP-702.md) | medium | any | [▶](https://code-share.online/practice/MBPP-702?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum subarray sum](HE-114.md) | medium | any | [▶](https://code-share.online/practice/HE-114?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum sum of absolute differences](MBPP-656.md) | medium | any | [▶](https://code-share.online/practice/MBPP-656?utm_source=github&utm_medium=tasks-repo) |
-| [Next permutation](CS-160.md) | medium | any | [▶](https://code-share.online/practice/CS-160?utm_source=github&utm_medium=tasks-repo) |
-| [Ones after flipping zeros](CS-129.md) | medium | any | [▶](https://code-share.online/practice/CS-129?utm_source=github&utm_medium=tasks-repo) |
 | [Position of the last removed element](MBPP-275.md) | medium | any | [▶](https://code-share.online/practice/MBPP-275?utm_source=github&utm_medium=tasks-repo) |
-| [Product of the others](CS-46.md) | medium | any | [▶](https://code-share.online/practice/CS-46?utm_source=github&utm_medium=tasks-repo) |
 | [Remove similar rows of a table](MBPP-642.md) | medium | any | [▶](https://code-share.online/practice/MBPP-642?utm_source=github&utm_medium=tasks-repo) |
 | [Roller coaster income](CJ-8.md) | medium | any | [▶](https://code-share.online/practice/CJ-8?utm_source=github&utm_medium=tasks-repo) |
 | [Rotation count of a sorted list](MBPP-382.md) | medium | any | [▶](https://code-share.online/practice/MBPP-382?utm_source=github&utm_medium=tasks-repo) |
 | [Run-length encoding with single items kept](MBPP-317.md) | medium | Python | [▶](https://code-share.online/practice/MBPP-317?utm_source=github&utm_medium=tasks-repo) |
-| [Shortest range to sort](CS-164.md) | medium | any | [▶](https://code-share.online/practice/CS-164?utm_source=github&utm_medium=tasks-repo) |
-| [Shortest subarray reaching a sum](CS-127.md) | medium | any | [▶](https://code-share.online/practice/CS-127?utm_source=github&utm_medium=tasks-repo) |
 | [Single element in a sorted list](MBPP-119.md) | medium | any | [▶](https://code-share.online/practice/MBPP-119?utm_source=github&utm_medium=tasks-repo) |
-| [Sliding window maximums](CS-75.md) | medium | any | [▶](https://code-share.online/practice/CS-75?utm_source=github&utm_medium=tasks-repo) |
 | [Sort by digit sum](HE-145.md) | medium | any | [▶](https://code-share.online/practice/HE-145?utm_source=github&utm_medium=tasks-repo) |
-| [Subarrays with a sum in a range](CS-181.md) | medium | any | [▶](https://code-share.online/practice/CS-181?utm_source=github&utm_medium=tasks-repo) |
-| [Subarrays with sum divisible by k](CS-161.md) | medium | any | [▶](https://code-share.online/practice/CS-161?utm_source=github&utm_medium=tasks-repo) |
-| [Subarrays with sum k](CS-45.md) | medium | any | [▶](https://code-share.online/practice/CS-45?utm_source=github&utm_medium=tasks-repo) |
 | [Sublist](PY-05.md) | medium | any | [▶](https://code-share.online/practice/PY-05?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of differences over all pairs](MBPP-144.md) | medium | any | [▶](https://code-share.online/practice/MBPP-144?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of odd-length sublists](MBPP-782.md) | medium | any | [▶](https://code-share.online/practice/MBPP-782?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of products of all sublists](MBPP-734.md) | medium | any | [▶](https://code-share.online/practice/MBPP-734?utm_source=github&utm_medium=tasks-repo) |
-| [Task scheduler with cooldown](CS-53.md) | medium | any | [▶](https://code-share.online/practice/CS-53?utm_source=github&utm_medium=tasks-repo) |
 | [Train Driver](JS-06.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-06?utm_source=github&utm_medium=tasks-repo) |
 | [Train timetable](CJ-1.md) | medium | any | [▶](https://code-share.online/practice/CJ-1?utm_source=github&utm_medium=tasks-repo) |
 | [Triplet with a given sum](MBPP-121.md) | medium | any | [▶](https://code-share.online/practice/MBPP-121?utm_source=github&utm_medium=tasks-repo) |
-| [Triplets with zero sum](CS-47.md) | medium | any | [▶](https://code-share.online/practice/CS-47?utm_source=github&utm_medium=tasks-repo) |
 | [Values of a triplet with a given sum](MBPP-916.md) | medium | any | [▶](https://code-share.online/practice/MBPP-916?utm_source=github&utm_medium=tasks-repo) |
-| [Window with at most two values](CS-128.md) | medium | any | [▶](https://code-share.online/practice/CS-128?utm_source=github&utm_medium=tasks-repo) |
 | [Camicia card game](EX-4.md) | hard | any | [▶](https://code-share.online/practice/EX-4?utm_source=github&utm_medium=tasks-repo) |
-| [Count smaller numbers to the right](CS-87.md) | hard | any | [▶](https://code-share.online/practice/CS-87?utm_source=github&utm_medium=tasks-repo) |
 | [Fair sword fight](CJ-77.md) | hard | any | [▶](https://code-share.online/practice/CJ-77?utm_source=github&utm_medium=tasks-repo) |
-| [Largest rectangle in a histogram](CS-71.md) | hard | any | [▶](https://code-share.online/practice/CS-71?utm_source=github&utm_medium=tasks-repo) |
 | [Mysterious road signs](CJ-74.md) | hard | any | [▶](https://code-share.online/practice/CJ-74?utm_source=github&utm_medium=tasks-repo) |
 | [Raids on the Great Wall](CJ-60.md) | hard | any | [▶](https://code-share.online/practice/CJ-60?utm_source=github&utm_medium=tasks-repo) |
 | [Smallest range covering all lists](MBPP-342.md) | hard | any | [▶](https://code-share.online/practice/MBPP-342?utm_source=github&utm_medium=tasks-repo) |
@@ -363,64 +341,34 @@
 
 | Task | Difficulty | Language | |
 |---|---|---|---|
-| [A courier with jobs of different length](../dp/CS-676.md) | easy | any | [▶](https://code-share.online/practice/CS-676?utm_source=github&utm_medium=tasks-repo) |
-| [Airports with no departures](../trees-graphs/CS-413.md) | easy | any | [▶](https://code-share.online/practice/CS-413?utm_source=github&utm_medium=tasks-repo) |
-| [All results in job order](../async/CS-540.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-540?utm_source=github&utm_medium=tasks-repo) |
 | [All slices of a given length](../strings/EX-97.md) | easy | any | [▶](https://code-share.online/practice/EX-97?utm_source=github&utm_medium=tasks-repo) |
 | [Allergies from a score](../math/EX-36.md) | easy | any | [▶](https://code-share.online/practice/EX-36?utm_source=github&utm_medium=tasks-repo) |
 | [Average of a list](../math/MBPP-886.md) | easy | any | [▶](https://code-share.online/practice/MBPP-886?utm_source=github&utm_medium=tasks-repo) |
-| [Batched log shipping](../async/CS-698.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-698?utm_source=github&utm_medium=tasks-repo) |
-| [Best streak ending on each day](../dp/CS-478.md) | easy | any | [▶](https://code-share.online/practice/CS-478?utm_source=github&utm_medium=tasks-repo) |
 | [Binary Search](../search-sort/PY-02.md) | easy | any | [▶](https://code-share.online/practice/PY-02?utm_source=github&utm_medium=tasks-repo) |
-| [Button with a cooldown](../async/CS-696.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-696?utm_source=github&utm_medium=tasks-repo) |
-| [Can the token reach the last cell](../dp/CS-482.md) | easy | any | [▶](https://code-share.online/practice/CS-482?utm_source=github&utm_medium=tasks-repo) |
-| [Cards with alternating signs](../dp/CS-677.md) | easy | any | [▶](https://code-share.online/practice/CS-677?utm_source=github&utm_medium=tasks-repo) |
-| [Cheapest laundry in batches](../dp/CS-477.md) | easy | any | [▶](https://code-share.online/practice/CS-477?utm_source=github&utm_medium=tasks-repo) |
-| [Cheapest three-colour fence painting](../dp/CS-479.md) | easy | any | [▶](https://code-share.online/practice/CS-479?utm_source=github&utm_medium=tasks-repo) |
-| [Choose k stands out of n](../recursion/CS-455.md) | easy | any | [▶](https://code-share.online/practice/CS-455?utm_source=github&utm_medium=tasks-repo) |
-| [Climbs along a trail profile](../dp/CS-480.md) | easy | any | [▶](https://code-share.online/practice/CS-480?utm_source=github&utm_medium=tasks-repo) |
-| [Column heights in a well](../matrices/CS-503.md) | easy | any | [▶](https://code-share.online/practice/CS-503?utm_source=github&utm_medium=tasks-repo) |
 | [Column of a table](../matrices/MBPP-49.md) | easy | any | [▶](https://code-share.online/practice/MBPP-49?utm_source=github&utm_medium=tasks-repo) |
 | [Columns from matrix pairs](../matrices/MBPP-652.md) | easy | any | [▶](https://code-share.online/practice/MBPP-652?utm_source=github&utm_medium=tasks-repo) |
-| [Combine two lists element by element](../functions/CS-339.md) | easy | any | [▶](https://code-share.online/practice/CS-339?utm_source=github&utm_medium=tasks-repo) |
-| [Constant diagonals](../matrices/CS-497.md) | easy | any | [▶](https://code-share.online/practice/CS-497?utm_source=github&utm_medium=tasks-repo) |
 | [Contains all numbers](../hashing/MBPP-651.md) | easy | any | [▶](https://code-share.online/practice/MBPP-651?utm_source=github&utm_medium=tasks-repo) |
 | [Counting identical sublists](../hashing/MBPP-758.md) | easy | any | [▶](https://code-share.online/practice/MBPP-758?utm_source=github&utm_medium=tasks-repo) |
 | [Counting sort](../search-sort/MBPP-54.md) | easy | any | [▶](https://code-share.online/practice/MBPP-54?utm_source=github&utm_medium=tasks-repo) |
 | [D&D character stats](../math/EX-49.md) | easy | any | [▶](https://code-share.online/practice/EX-49?utm_source=github&utm_medium=tasks-repo) |
-| [Dead ends in a maze](../matrices/CS-419.md) | easy | any | [▶](https://code-share.online/practice/CS-419?utm_source=github&utm_medium=tasks-repo) |
-| [Dice outcomes with a sum](../recursion/CS-465.md) | easy | any | [▶](https://code-share.online/practice/CS-465?utm_source=github&utm_medium=tasks-repo) |
 | [Digit sum of all numbers in a list](../math/MBPP-398.md) | easy | any | [▶](https://code-share.online/practice/MBPP-398?utm_source=github&utm_medium=tasks-repo) |
 | [Digit sum of the largest prime](../math/HE-94.md) | easy | any | [▶](https://code-share.online/practice/HE-94?utm_source=github&utm_medium=tasks-repo) |
 | [Does the list have duplicates](../hashing/MBPP-19.md) | easy | any | [▶](https://code-share.online/practice/MBPP-19?utm_source=github&utm_medium=tasks-repo) |
-| [Downloads until the data cap](../async/CS-572.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-572?utm_source=github&utm_medium=tasks-repo) |
 | [Element-wise power](../math/MBPP-197.md) | easy | any | [▶](https://code-share.online/practice/MBPP-197?utm_source=github&utm_medium=tasks-repo) |
 | [Elementwise product of grids](../matrices/MBPP-445.md) | easy | any | [▶](https://code-share.online/practice/MBPP-445?utm_source=github&utm_medium=tasks-repo) |
 | [Even digits between two numbers](../math/HE-163.md) | easy | any | [▶](https://code-share.online/practice/HE-163?utm_source=github&utm_medium=tasks-repo) |
-| [Exam average with validation](../errors/CS-328.md) | easy | any | [▶](https://code-share.online/practice/CS-328?utm_source=github&utm_medium=tasks-repo) |
 | [Factorial or sum by position](../math/HE-106.md) | easy | any | [▶](https://code-share.online/practice/HE-106?utm_source=github&utm_medium=tasks-repo) |
 | [Fill a template with each item](../strings/MBPP-390.md) | easy | any | [▶](https://code-share.online/practice/MBPP-390?utm_source=github&utm_medium=tasks-repo) |
 | [Filter strings by prefix](../strings/HE-29.md) | easy | any | [▶](https://code-share.online/practice/HE-29?utm_source=github&utm_medium=tasks-repo) |
-| [Finish moments, one by one](../async/CS-555.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-555?utm_source=github&utm_medium=tasks-repo) |
-| [First k answers](../async/CS-580.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-580?utm_source=github&utm_medium=tasks-repo) |
 | [First multiples of a number](../math/MBPP-21.md) | easy | any | [▶](https://code-share.online/practice/MBPP-21?utm_source=github&utm_medium=tasks-repo) |
 | [First position in a sorted list](../search-sort/MBPP-195.md) | easy | any | [▶](https://code-share.online/practice/MBPP-195?utm_source=github&utm_medium=tasks-repo) |
 | [First repeated element](../hashing/MBPP-22.md) | easy | any | [▶](https://code-share.online/practice/MBPP-22?utm_source=github&utm_medium=tasks-repo) |
 | [Flower field](../matrices/EX-52.md) | easy | any | [▶](https://code-share.online/practice/EX-52?utm_source=github&utm_medium=tasks-repo) |
-| [Fold a list by operation name](../functions/CS-338.md) | easy | any | [▶](https://code-share.online/practice/CS-338?utm_source=github&utm_medium=tasks-repo) |
-| [Fold every window with a named operation](../functions/CS-372.md) | easy | any | [▶](https://code-share.online/practice/CS-372?utm_source=github&utm_medium=tasks-repo) |
 | [Frequencies in nested lists](../hashing/MBPP-97.md) | easy | any | [▶](https://code-share.online/practice/MBPP-97?utm_source=github&utm_medium=tasks-repo) |
-| [Friday the thirteenth](../dates/CS-612.md) | easy | any | [▶](https://code-share.online/practice/CS-612?utm_source=github&utm_medium=tasks-repo) |
 | [GCD of a list](../math/MBPP-45.md) | easy | any | [▶](https://code-share.online/practice/MBPP-45?utm_source=github&utm_medium=tasks-repo) |
 | [Groups of distinct numbers](../hashing/MBPP-953.md) | easy | any | [▶](https://code-share.online/practice/MBPP-953?utm_source=github&utm_medium=tasks-repo) |
-| [Hot spots on a heat map](../matrices/CS-488.md) | easy | any | [▶](https://code-share.online/practice/CS-488?utm_source=github&utm_medium=tasks-repo) |
-| [How many friends each person has](../trees-graphs/CS-402.md) | easy | any | [▶](https://code-share.online/practice/CS-402?utm_source=github&utm_medium=tasks-repo) |
-| [How many numbers pass all conditions](../functions/CS-345.md) | easy | any | [▶](https://code-share.online/practice/CS-345?utm_source=github&utm_medium=tasks-repo) |
-| [How many requests were slow](../async/CS-579.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-579?utm_source=github&utm_medium=tasks-repo) |
-| [Integer list from a string](../errors/CS-331.md) | easy | any | [▶](https://code-share.online/practice/CS-331?utm_source=github&utm_medium=tasks-repo) |
 | [Is the number in a sorted list](../search-sort/MBPP-492.md) | easy | any | [▶](https://code-share.online/practice/MBPP-492?utm_source=github&utm_medium=tasks-repo) |
 | [Is the product even](../math/MBPP-804.md) | easy | any | [▶](https://code-share.online/practice/MBPP-804?utm_source=github&utm_medium=tasks-repo) |
-| [Jobs in pairs](../async/CS-560.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-560?utm_source=github&utm_medium=tasks-repo) |
 | [Join nested strings with spaces](../strings/MBPP-544.md) | easy | any | [▶](https://code-share.online/practice/MBPP-544?utm_source=github&utm_medium=tasks-repo) |
 | [Join strings](../strings/HE-28.md) | easy | any | [▶](https://code-share.online/practice/HE-28?utm_source=github&utm_medium=tasks-repo) |
 | [K-th element: odds first, then evens](../math/MBPP-844.md) | easy | any | [▶](https://code-share.online/practice/MBPP-844?utm_source=github&utm_medium=tasks-repo) |
@@ -435,15 +383,9 @@
 | [Letter diamond](../strings/EX-47.md) | easy | any | [▶](https://code-share.online/practice/EX-47?utm_source=github&utm_medium=tasks-repo) |
 | [Letters repeated by counts](../strings/MBPP-810.md) | easy | any | [▶](https://code-share.online/practice/MBPP-810?utm_source=github&utm_medium=tasks-repo) |
 | [Links between numbers](../hashing/MBPP-561.md) | easy | any | [▶](https://code-share.online/practice/MBPP-561?utm_source=github&utm_medium=tasks-repo) |
-| [List items by indexes](../errors/CS-332.md) | easy | any | [▶](https://code-share.online/practice/CS-332?utm_source=github&utm_medium=tasks-repo) |
 | [List of bits to a number](../math/MBPP-494.md) | easy | any | [▶](https://code-share.online/practice/MBPP-494?utm_source=github&utm_medium=tasks-repo) |
 | [List of empty maps](../hashing/MBPP-568.md) | easy | any | [▶](https://code-share.online/practice/MBPP-568?utm_source=github&utm_medium=tasks-repo) |
 | [List with fewer total characters](../strings/HE-74.md) | easy | any | [▶](https://code-share.online/practice/HE-74?utm_source=github&utm_medium=tasks-repo) |
-| [Lonely guests](../matrices/CS-499.md) | easy | any | [▶](https://code-share.online/practice/CS-499?utm_source=github&utm_medium=tasks-repo) |
-| [Longest gap between logins](../dates/CS-303.md) | easy | any | [▶](https://code-share.online/practice/CS-303?utm_source=github&utm_medium=tasks-repo) |
-| [Longest run of free seats](../matrices/CS-485.md) | easy | any | [▶](https://code-share.online/practice/CS-485?utm_source=github&utm_medium=tasks-repo) |
-| [Longest run without a sales drop](../dp/CS-473.md) | easy | any | [▶](https://code-share.online/practice/CS-473?utm_source=github&utm_medium=tasks-repo) |
-| [Longest shared stretch of two playlists](../dp/CS-680.md) | easy | any | [▶](https://code-share.online/practice/CS-680?utm_source=github&utm_medium=tasks-repo) |
 | [Longest string](../strings/HE-12.md) | easy | any | [▶](https://code-share.online/practice/HE-12?utm_source=github&utm_medium=tasks-repo) |
 | [Longest word length](../strings/MBPP-90.md) | easy | any | [▶](https://code-share.online/practice/MBPP-90?utm_source=github&utm_medium=tasks-repo) |
 | [Magic square](../matrices/MBPP-129.md) | easy | any | [▶](https://code-share.online/practice/MBPP-129?utm_source=github&utm_medium=tasks-repo) |
@@ -451,7 +393,6 @@
 | [Maximum per key](../hashing/MBPP-613.md) | easy | any | [▶](https://code-share.online/practice/MBPP-613?utm_source=github&utm_medium=tasks-repo) |
 | [Mean absolute deviation](../math/HE-4.md) | easy | any | [▶](https://code-share.online/practice/HE-4?utm_source=github&utm_medium=tasks-repo) |
 | [Merge nested lists without repeats](../hashing/MBPP-140.md) | easy | any | [▶](https://code-share.online/practice/MBPP-140?utm_source=github&utm_medium=tasks-repo) |
-| [Messages that overtook earlier ones](../async/CS-705.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-705?utm_source=github&utm_medium=tasks-repo) |
 | [Most frequent element](../hashing/MBPP-130.md) | easy | any | [▶](https://code-share.online/practice/MBPP-130?utm_source=github&utm_medium=tasks-repo) |
 | [Nested maps from three lists](../hashing/MBPP-391.md) | easy | any | [▶](https://code-share.online/practice/MBPP-391?utm_source=github&utm_medium=tasks-repo) |
 | [Number frequencies in nested lists](../hashing/MBPP-40.md) | easy | any | [▶](https://code-share.online/practice/MBPP-40?utm_source=github&utm_medium=tasks-repo) |
@@ -461,114 +402,63 @@
 | [Pairs with an odd XOR](../math/MBPP-556.md) | easy | any | [▶](https://code-share.online/practice/MBPP-556?utm_source=github&utm_medium=tasks-repo) |
 | [Palindromes in a list of words](../strings/MBPP-864.md) | easy | any | [▶](https://code-share.online/practice/MBPP-864?utm_source=github&utm_medium=tasks-repo) |
 | [Parallel lines](../math/MBPP-525.md) | easy | any | [▶](https://code-share.online/practice/MBPP-525?utm_source=github&utm_medium=tasks-repo) |
-| [Parking lot that turns cars away](../async/CS-697.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-697?utm_source=github&utm_medium=tasks-repo) |
-| [Payday dates](../dates/CS-618.md) | easy | any | [▶](https://code-share.online/practice/CS-618?utm_source=github&utm_medium=tasks-repo) |
 | [Pile of stones](../math/HE-100.md) | easy | any | [▶](https://code-share.online/practice/HE-100?utm_source=github&utm_medium=tasks-repo) |
-| [Playlists with follow rules](../dp/CS-444.md) | easy | any | [▶](https://code-share.online/practice/CS-444?utm_source=github&utm_medium=tasks-repo) |
 | [Polynomial derivative](../math/HE-62.md) | easy | any | [▶](https://code-share.online/practice/HE-62?utm_source=github&utm_medium=tasks-repo) |
 | [Power of every number](../math/MBPP-623.md) | easy | any | [▶](https://code-share.online/practice/MBPP-623?utm_source=github&utm_medium=tasks-repo) |
 | [Primes below n](../math/HE-96.md) | easy | any | [▶](https://code-share.online/practice/HE-96?utm_source=github&utm_medium=tasks-repo) |
 | [Product divided by count](../math/MBPP-98.md) | easy | any | [▶](https://code-share.online/practice/MBPP-98?utm_source=github&utm_medium=tasks-repo) |
 | [Product of a column](../matrices/MBPP-645.md) | easy | any | [▶](https://code-share.online/practice/MBPP-645?utm_source=github&utm_medium=tasks-repo) |
 | [Proverb from a list](../strings/EX-80.md) | easy | any | [▶](https://code-share.online/practice/EX-80?utm_source=github&utm_medium=tasks-repo) |
-| [Rectangle sums in a table](../matrices/CS-502.md) | easy | any | [▶](https://code-share.online/practice/CS-502?utm_source=github&utm_medium=tasks-repo) |
 | [Remainder of the product of a list](../math/MBPP-471.md) | easy | any | [▶](https://code-share.online/practice/MBPP-471?utm_source=github&utm_medium=tasks-repo) |
 | [Reverse every string in a list](../strings/MBPP-456.md) | easy | any | [▶](https://code-share.online/practice/MBPP-456?utm_source=github&utm_medium=tasks-repo) |
 | [Rows to columns](../matrices/MBPP-612.md) | easy | any | [▶](https://code-share.online/practice/MBPP-612?utm_source=github&utm_medium=tasks-repo) |
-| [Running results by a rule](../functions/CS-346.md) | easy | any | [▶](https://code-share.online/practice/CS-346?utm_source=github&utm_medium=tasks-repo) |
-| [Safe element-wise division](../errors/CS-325.md) | easy | any | [▶](https://code-share.online/practice/CS-325?utm_source=github&utm_medium=tasks-repo) |
 | [Sample standard deviation](../math/MBPP-717.md) | easy | any | [▶](https://code-share.online/practice/MBPP-717?utm_source=github&utm_medium=tasks-repo) |
-| [Scored stepping stones](../dp/CS-433.md) | easy | any | [▶](https://code-share.online/practice/CS-433?utm_source=github&utm_medium=tasks-repo) |
-| [Select and transform by name](../functions/CS-354.md) | easy | any | [▶](https://code-share.online/practice/CS-354?utm_source=github&utm_medium=tasks-repo) |
 | [Self-inverse numbers modulo p](../math/MBPP-288.md) | easy | any | [▶](https://code-share.online/practice/MBPP-288?utm_source=github&utm_medium=tasks-repo) |
 | [Set of a list of strings](../hashing/MBPP-945.md) | easy | any | [▶](https://code-share.online/practice/MBPP-945?utm_source=github&utm_medium=tasks-repo) |
 | [Share of positive numbers](../math/MBPP-442.md) | easy | any | [▶](https://code-share.online/practice/MBPP-442?utm_source=github&utm_medium=tasks-repo) |
-| [Shifts with two rest days](../dp/CS-476.md) | easy | any | [▶](https://code-share.online/practice/CS-476?utm_source=github&utm_medium=tasks-repo) |
 | [Sieve](../math/PY-27.md) | easy | any | [▶](https://code-share.online/practice/PY-27?utm_source=github&utm_medium=tasks-repo) |
 | [Smallest number to add for an even sum](../math/MBPP-867.md) | easy | any | [▶](https://code-share.online/practice/MBPP-867?utm_source=github&utm_medium=tasks-repo) |
-| [Snake order](../matrices/CS-507.md) | easy | any | [▶](https://code-share.online/practice/CS-507?utm_source=github&utm_medium=tasks-repo) |
 | [Sort records by the first field](../search-sort/MBPP-839.md) | easy | any | [▶](https://code-share.online/practice/MBPP-839?utm_source=github&utm_medium=tasks-repo) |
-| [Split a restaurant bill](../errors/CS-330.md) | easy | any | [▶](https://code-share.online/practice/CS-330?utm_source=github&utm_medium=tasks-repo) |
-| [Splitting a row into piles](../recursion/CS-468.md) | easy | any | [▶](https://code-share.online/practice/CS-468?utm_source=github&utm_medium=tasks-repo) |
-| [Step tracker by days](../oop/CS-262.md) | easy | any | [▶](https://code-share.online/practice/CS-262?utm_source=github&utm_medium=tasks-repo) |
-| [Stock left after orders](../errors/CS-333.md) | easy | any | [▶](https://code-share.online/practice/CS-333?utm_source=github&utm_medium=tasks-repo) |
 | [String pairs to number pairs](../parsing/MBPP-156.md) | easy | any | [▶](https://code-share.online/practice/MBPP-156?utm_source=github&utm_medium=tasks-repo) |
 | [Strings of a given length](../strings/MBPP-450.md) | easy | any | [▶](https://code-share.online/practice/MBPP-450?utm_source=github&utm_medium=tasks-repo) |
 | [Strings to floating-point numbers](../strings/MBPP-117.md) | easy | any | [▶](https://code-share.online/practice/MBPP-117?utm_source=github&utm_medium=tasks-repo) |
 | [Strings to lists of characters](../strings/MBPP-857.md) | easy | any | [▶](https://code-share.online/practice/MBPP-857?utm_source=github&utm_medium=tasks-repo) |
 | [Subjects by ascending mark](../search-sort/MBPP-64.md) | easy | any | [▶](https://code-share.online/practice/MBPP-64?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of a table column](../matrices/MBPP-827.md) | easy | any | [▶](https://code-share.online/practice/MBPP-827?utm_source=github&utm_medium=tasks-repo) |
-| [Sum of jobs run one by one](../async/CS-539.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-539?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of multiples of a set](../math/EX-104.md) | easy | any | [▶](https://code-share.online/practice/EX-104?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of rounded numbers times the list length](../math/MBPP-419.md) | easy | any | [▶](https://code-share.online/practice/MBPP-419?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of squares of rounded-up numbers](../math/HE-133.md) | easy | any | [▶](https://code-share.online/practice/HE-133?utm_source=github&utm_medium=tasks-repo) |
-| [Sums of picking from a list](../recursion/CS-463.md) | easy | any | [▶](https://code-share.online/practice/CS-463?utm_source=github&utm_medium=tasks-repo) |
-| [Table with totals](../matrices/CS-491.md) | easy | any | [▶](https://code-share.online/practice/CS-491?utm_source=github&utm_medium=tasks-repo) |
-| [Tag numbers with the conditions they meet](../functions/CS-356.md) | easy | any | [▶](https://code-share.online/practice/CS-356?utm_source=github&utm_medium=tasks-repo) |
-| [The go-to person of an office](../trees-graphs/CS-691.md) | easy | any | [▶](https://code-share.online/practice/CS-691?utm_source=github&utm_medium=tasks-repo) |
 | [The house that Jack built](../strings/EX-59.md) | easy | any | [▶](https://code-share.online/practice/EX-59?utm_source=github&utm_medium=tasks-repo) |
-| [The most popular member](../trees-graphs/CS-403.md) | easy | any | [▶](https://code-share.online/practice/CS-403?utm_source=github&utm_medium=tasks-repo) |
 | [The old lady who swallowed a fly](../strings/EX-53.md) | easy | any | [▶](https://code-share.online/practice/EX-53?utm_source=github&utm_medium=tasks-repo) |
 | [The Twelve Days of Christmas](../strings/EX-106.md) | easy | any | [▶](https://code-share.online/practice/EX-106?utm_source=github&utm_medium=tasks-repo) |
 | [Triangle kind by sides](../math/EX-105.md) | easy | any | [▶](https://code-share.online/practice/EX-105?utm_source=github&utm_medium=tasks-repo) |
-| [Two-lane runner](../dp/CS-445.md) | easy | any | [▶](https://code-share.online/practice/CS-445?utm_source=github&utm_medium=tasks-repo) |
-| [Typing indicator periods](../async/CS-692.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-692?utm_source=github&utm_medium=tasks-repo) |
 | [Unique groups ignoring order](../hashing/MBPP-400.md) | easy | any | [▶](https://code-share.online/practice/MBPP-400?utm_source=github&utm_medium=tasks-repo) |
 | [Unique values of all groups](../hashing/MBPP-694.md) | easy | any | [▶](https://code-share.online/practice/MBPP-694?utm_source=github&utm_medium=tasks-repo) |
-| [Upload progress after each file](../async/CS-585.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-585?utm_source=github&utm_medium=tasks-repo) |
-| [When customers leave the tills](../stacks-lists/CS-529.md) | easy | any | [▶](https://code-share.online/practice/CS-529?utm_source=github&utm_medium=tasks-repo) |
-| [Which photos failed to upload](../async/CS-566.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-566?utm_source=github&utm_medium=tasks-repo) |
-| [Widgets that loaded in time](../async/CS-563.md) | easy | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-563?utm_source=github&utm_medium=tasks-repo) |
 | [Words longer than n](../strings/MBPP-128.md) | easy | any | [▶](https://code-share.online/practice/MBPP-128?utm_source=github&utm_medium=tasks-repo) |
 | [Adjacent coordinates](../recursion/MBPP-630.md) | medium | any | [▶](https://code-share.online/practice/MBPP-630?utm_source=github&utm_medium=tasks-repo) |
 | [All sublists by size](../recursion/MBPP-859.md) | medium | any | [▶](https://code-share.online/practice/MBPP-859?utm_source=github&utm_medium=tasks-repo) |
 | [All subsets of a list](../recursion/MBPP-462.md) | medium | any | [▶](https://code-share.online/practice/MBPP-462?utm_source=github&utm_medium=tasks-repo) |
-| [Array with snapshots](../oop/CS-124.md) | medium | any | [▶](https://code-share.online/practice/CS-124?utm_source=github&utm_medium=tasks-repo) |
-| [Asteroid collisions](../stacks-lists/CS-17.md) | medium | any | [▶](https://code-share.online/practice/CS-17?utm_source=github&utm_medium=tasks-repo) |
-| [Bank queue with impatient customers](../dates/CS-648.md) | medium | any | [▶](https://code-share.online/practice/CS-648?utm_source=github&utm_medium=tasks-repo) |
-| [Best streak of days with one day forgiven](../dp/CS-687.md) | medium | any | [▶](https://code-share.online/practice/CS-687?utm_source=github&utm_medium=tasks-repo) |
-| [Busiest week](../dates/CS-317.md) | medium | any | [▶](https://code-share.online/practice/CS-317?utm_source=github&utm_medium=tasks-repo) |
-| [Busy minutes in a calendar](../dates/CS-300.md) | medium | any | [▶](https://code-share.online/practice/CS-300?utm_source=github&utm_medium=tasks-repo) |
-| [Cards in consecutive groups](../hashing/CS-115.md) | medium | any | [▶](https://code-share.online/practice/CS-115?utm_source=github&utm_medium=tasks-repo) |
 | [Cheapest items](../search-sort/MBPP-795.md) | medium | any | [▶](https://code-share.online/practice/MBPP-795?utm_source=github&utm_medium=tasks-repo) |
-| [Cheapest network between points](../trees-graphs/CS-112.md) | medium | any | [▶](https://code-share.online/practice/CS-112?utm_source=github&utm_medium=tasks-repo) |
-| [Cheapest way to cut a stick](../dp/CS-176.md) | medium | any | [▶](https://code-share.online/practice/CS-176?utm_source=github&utm_medium=tasks-repo) |
-| [Collect answers until it goes quiet](../async/CS-597.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-597?utm_source=github&utm_medium=tasks-repo) |
-| [Combinations with a target sum](../recursion/CS-68.md) | medium | any | [▶](https://code-share.online/practice/CS-68?utm_source=github&utm_medium=tasks-repo) |
 | [Combinations with repetition](../recursion/MBPP-255.md) | medium | any | [▶](https://code-share.online/practice/MBPP-255?utm_source=github&utm_medium=tasks-repo) |
 | [Common pairs ignoring order](../hashing/MBPP-473.md) | medium | any | [▶](https://code-share.online/practice/MBPP-473?utm_source=github&utm_medium=tasks-repo) |
 | [Controlled inflation](../dp/CJ-23.md) | medium | any | [▶](https://code-share.online/practice/CJ-23?utm_source=github&utm_medium=tasks-repo) |
-| [Count minimum-sum paths in a triangle](../dp/CS-147.md) | medium | any | [▶](https://code-share.online/practice/CS-147?utm_source=github&utm_medium=tasks-repo) |
 | [Counting unordered pairs](../hashing/MBPP-237.md) | medium | any | [▶](https://code-share.online/practice/MBPP-237?utm_source=github&utm_medium=tasks-repo) |
-| [Days until a warmer day](../stacks-lists/CS-12.md) | medium | any | [▶](https://code-share.online/practice/CS-12?utm_source=github&utm_medium=tasks-repo) |
-| [Delete and earn](../dp/CS-146.md) | medium | any | [▶](https://code-share.online/practice/CS-146?utm_source=github&utm_medium=tasks-repo) |
 | [Even numbers in a nested list](../recursion/MBPP-580.md) | medium | Python | [▶](https://code-share.online/practice/MBPP-580?utm_source=github&utm_medium=tasks-repo) |
-| [Finish order in a job pool](../async/CS-209.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-209?utm_source=github&utm_medium=tasks-repo) |
-| [First common meeting slot](../dates/CS-315.md) | medium | any | [▶](https://code-share.online/practice/CS-315?utm_source=github&utm_medium=tasks-repo) |
-| [First common meeting slot across time zones](../dates/CS-637.md) | medium | any | [▶](https://code-share.online/practice/CS-637?utm_source=github&utm_medium=tasks-repo) |
 | [First n lucky numbers](../math/MBPP-907.md) | medium | any | [▶](https://code-share.online/practice/MBPP-907?utm_source=github&utm_medium=tasks-repo) |
 | [Flatten Array](../recursion/JAVA-10.md) | medium | Java | [▶](https://code-share.online/practice/JAVA-10?utm_source=github&utm_medium=tasks-repo) |
 | [Flatten Array](../recursion/PY-03.md) | medium | Python | [▶](https://code-share.online/practice/PY-03?utm_source=github&utm_medium=tasks-repo) |
-| [Free slots in a workday](../dates/CS-301.md) | medium | any | [▶](https://code-share.online/practice/CS-301?utm_source=github&utm_medium=tasks-repo) |
 | [Frequency of each list](../hashing/MBPP-114.md) | medium | any | [▶](https://code-share.online/practice/MBPP-114?utm_source=github&utm_medium=tasks-repo) |
-| [Graceful pool stop](../async/CS-604.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-604?utm_source=github&utm_medium=tasks-repo) |
 | [Group pairs by first element](../hashing/MBPP-243.md) | medium | Python | [▶](https://code-share.online/practice/MBPP-243?utm_source=github&utm_medium=tasks-repo) |
 | [Hexagon grid](../math/MBPP-493.md) | medium | any | [▶](https://code-share.online/practice/MBPP-493?utm_source=github&utm_medium=tasks-repo) |
-| [Hotel booking by nights](../oop/CS-271.md) | medium | any | [▶](https://code-share.online/practice/CS-271?utm_source=github&utm_medium=tasks-repo) |
-| [House robber on a circle](../dp/CS-34.md) | medium | any | [▶](https://code-share.online/practice/CS-34?utm_source=github&utm_medium=tasks-repo) |
 | [Increasing speed-limit subsequences](../dp/CJ-46.md) | medium | any | [▶](https://code-share.online/practice/CJ-46?utm_source=github&utm_medium=tasks-repo) |
-| [Job pool with weights](../async/CS-589.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-589?utm_source=github&utm_medium=tasks-repo) |
 | [Killer Sudoku cage combinations](../recursion/EX-62.md) | medium | any | [▶](https://code-share.online/practice/EX-62?utm_source=github&utm_medium=tasks-repo) |
 | [Largest Series Product](../strings/PY-17.md) | medium | any | [▶](https://code-share.online/practice/PY-17?utm_source=github&utm_medium=tasks-repo) |
-| [Largest sum divisible by three](../dp/CS-450.md) | medium | any | [▶](https://code-share.online/practice/CS-450?utm_source=github&utm_medium=tasks-repo) |
 | [Lasagna Master](../functions/JS-15.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-15?utm_source=github&utm_medium=tasks-repo) |
 | [List Ops](../functions/JAVA-18.md) | medium | Java | [▶](https://code-share.online/practice/JAVA-18?utm_source=github&utm_medium=tasks-repo) |
-| [Longest arithmetic subsequence](../dp/CS-148.md) | medium | any | [▶](https://code-share.online/practice/CS-148?utm_source=github&utm_medium=tasks-repo) |
 | [Longest bitonic subsequence](../dp/MBPP-522.md) | medium | any | [▶](https://code-share.online/practice/MBPP-522?utm_source=github&utm_medium=tasks-repo) |
 | [Longest chain of pairs](../dp/MBPP-601.md) | medium | any | [▶](https://code-share.online/practice/MBPP-601?utm_source=github&utm_medium=tasks-repo) |
 | [Longest subsequence with close neighbours](../dp/MBPP-60.md) | medium | any | [▶](https://code-share.online/practice/MBPP-60?utm_source=github&utm_medium=tasks-repo) |
 | [Longest subsequence with step one](../dp/MBPP-149.md) | medium | any | [▶](https://code-share.online/practice/MBPP-149?utm_source=github&utm_medium=tasks-repo) |
-| [Longest zigzag subsequence](../dp/CS-436.md) | medium | any | [▶](https://code-share.online/practice/CS-436?utm_source=github&utm_medium=tasks-repo) |
 | [Ludic numbers](../math/MBPP-603.md) | medium | any | [▶](https://code-share.online/practice/MBPP-603?utm_source=github&utm_medium=tasks-repo) |
 | [Maximum path sum in a triangle](../dp/MBPP-147.md) | medium | any | [▶](https://code-share.online/practice/MBPP-147?utm_source=github&utm_medium=tasks-repo) |
 | [Maximum sum increasing subsequence](../dp/MBPP-524.md) | medium | any | [▶](https://code-share.online/practice/MBPP-524?utm_source=github&utm_medium=tasks-repo) |
@@ -577,64 +467,32 @@
 | [Merge rows that share a first element](../hashing/MBPP-417.md) | medium | any | [▶](https://code-share.online/practice/MBPP-417?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum of a rotated sorted list](../search-sort/MBPP-225.md) | medium | any | [▶](https://code-share.online/practice/MBPP-225?utm_source=github&utm_medium=tasks-repo) |
 | [Minimum path sum in a triangle](../dp/MBPP-974.md) | medium | any | [▶](https://code-share.online/practice/MBPP-974?utm_source=github&utm_medium=tasks-repo) |
-| [Most capital after k projects](../search-sort/CS-179.md) | medium | any | [▶](https://code-share.online/practice/CS-179?utm_source=github&utm_medium=tasks-repo) |
-| [Most points on one straight line](../math/CS-198.md) | medium | any | [▶](https://code-share.online/practice/CS-198?utm_source=github&utm_medium=tasks-repo) |
-| [Next generation of Life](../matrices/CS-56.md) | medium | any | [▶](https://code-share.online/practice/CS-56?utm_source=github&utm_medium=tasks-repo) |
-| [Next greater element in a circle](../stacks-lists/CS-13.md) | medium | any | [▶](https://code-share.online/practice/CS-13?utm_source=github&utm_medium=tasks-repo) |
 | [Operations to equalize](../math/MBPP-158.md) | medium | any | [▶](https://code-share.online/practice/MBPP-158?utm_source=github&utm_medium=tasks-repo) |
 | [Ozan's Playlist](../hashing/JS-14.md) | medium | JavaScript | [▶](https://code-share.online/practice/JS-14?utm_source=github&utm_medium=tasks-repo) |
 | [Pancake sort](../search-sort/MBPP-141.md) | medium | any | [▶](https://code-share.online/practice/MBPP-141?utm_source=github&utm_medium=tasks-repo) |
 | [Parity bits in transmission](../math/EX-12.md) | medium | any | [▶](https://code-share.online/practice/EX-12?utm_source=github&utm_medium=tasks-repo) |
 | [Parity of the last element after p operations](../math/MBPP-134.md) | medium | any | [▶](https://code-share.online/practice/MBPP-134?utm_source=github&utm_medium=tasks-repo) |
 | [Perfect Subarrays](../hashing/CJ-45.md) | medium | any | [▶](https://code-share.online/practice/CJ-45?utm_source=github&utm_medium=tasks-repo) |
-| [Periods when too many people are away](../dates/CS-647.md) | medium | any | [▶](https://code-share.online/practice/CS-647?utm_source=github&utm_medium=tasks-repo) |
-| [Pipeline of named steps over a list](../functions/CS-357.md) | medium | any | [▶](https://code-share.online/practice/CS-357?utm_source=github&utm_medium=tasks-repo) |
-| [Plus and minus to reach a target](../dp/CS-37.md) | medium | any | [▶](https://code-share.online/practice/CS-37?utm_source=github&utm_medium=tasks-repo) |
-| [Pool with a changing number of places](../async/CS-606.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-606?utm_source=github&utm_medium=tasks-repo) |
 | [Rail fence cipher](../strings/EX-24.md) | medium | any | [▶](https://code-share.online/practice/EX-24?utm_source=github&utm_medium=tasks-repo) |
-| [Releasing results in index order](../async/CS-596.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-596?utm_source=github&utm_medium=tasks-repo) |
 | [Robot rock band](../hashing/CJ-34.md) | medium | any | [▶](https://code-share.online/practice/CJ-34?utm_source=github&utm_medium=tasks-repo) |
-| [Run with a positive product](../dp/CS-441.md) | medium | any | [▶](https://code-share.online/practice/CS-441?utm_source=github&utm_medium=tasks-repo) |
-| [Running jobs in batches](../async/CS-605.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-605?utm_source=github&utm_medium=tasks-repo) |
-| [Running median](../oop/CS-76.md) | medium | any | [▶](https://code-share.online/practice/CS-76?utm_source=github&utm_medium=tasks-repo) |
-| [Sessions from event times](../dates/CS-321.md) | medium | any | [▶](https://code-share.online/practice/CS-321?utm_source=github&utm_medium=tasks-repo) |
-| [Shared minutes of two shifts](../dates/CS-306.md) | medium | any | [▶](https://code-share.online/practice/CS-306?utm_source=github&utm_medium=tasks-repo) |
-| [Sliding window median](../search-sort/CS-180.md) | medium | any | [▶](https://code-share.online/practice/CS-180?utm_source=github&utm_medium=tasks-repo) |
 | [Smallest missing non-negative number](../search-sort/MBPP-371.md) | medium | any | [▶](https://code-share.online/practice/MBPP-371?utm_source=github&utm_medium=tasks-repo) |
 | [Sort by picking corner elements](../dp/MBPP-899.md) | medium | any | [▶](https://code-share.online/practice/MBPP-899?utm_source=github&utm_medium=tasks-repo) |
-| [Split into two equal-sum parts](../dp/CS-36.md) | medium | any | [▶](https://code-share.online/practice/CS-36?utm_source=github&utm_medium=tasks-repo) |
-| [Stale search responses](../async/CS-592.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-592?utm_source=github&utm_medium=tasks-repo) |
-| [Starts under two limiters](../async/CS-221.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-221?utm_source=github&utm_medium=tasks-repo) |
-| [Stock trading with a cooldown](../dp/CS-144.md) | medium | any | [▶](https://code-share.online/practice/CS-144?utm_source=github&utm_medium=tasks-repo) |
 | [Subsequences with a small product](../dp/MBPP-510.md) | medium | any | [▶](https://code-share.online/practice/MBPP-510?utm_source=github&utm_medium=tasks-repo) |
 | [Subset with a given sum](../dp/MBPP-481.md) | medium | any | [▶](https://code-share.online/practice/MBPP-481?utm_source=github&utm_medium=tasks-repo) |
 | [Sum of XOR over all pairs](../math/MBPP-633.md) | medium | any | [▶](https://code-share.online/practice/MBPP-633?utm_source=github&utm_medium=tasks-repo) |
 | [Summarize IPv4 subnets](../parsing/CJ-33.md) | medium | any | [▶](https://code-share.online/practice/CJ-33?utm_source=github&utm_medium=tasks-repo) |
-| [Swimming pool passes](../dp/CS-434.md) | medium | any | [▶](https://code-share.online/practice/CS-434?utm_source=github&utm_medium=tasks-repo) |
 | [Symmetric pairs](../hashing/MBPP-490.md) | medium | any | [▶](https://code-share.online/practice/MBPP-490?utm_source=github&utm_medium=tasks-repo) |
-| [The one-three-two triple](../stacks-lists/CS-119.md) | medium | any | [▶](https://code-share.online/practice/CS-119?utm_source=github&utm_medium=tasks-repo) |
 | [The repeater](../strings/CJ-17.md) | medium | any | [▶](https://code-share.online/practice/CJ-17?utm_source=github&utm_medium=tasks-repo) |
-| [Tiny query engine over a table](../functions/CS-669.md) | medium | any | [▶](https://code-share.online/practice/CS-669?utm_source=github&utm_medium=tasks-repo) |
 | [Touchbar Typing](../dp/CJ-44.md) | medium | any | [▶](https://code-share.online/practice/CJ-44?utm_source=github&utm_medium=tasks-repo) |
-| [Trades with a selling fee](../dp/CS-145.md) | medium | any | [▶](https://code-share.online/practice/CS-145?utm_source=github&utm_medium=tasks-repo) |
 | [Tree Building](../trees-graphs/JAVA-23.md) | medium | Java | [▶](https://code-share.online/practice/JAVA-23?utm_source=github&utm_medium=tasks-repo) |
 | [Triangular matrix by row swaps](../matrices/CJ-7.md) | medium | any | [▶](https://code-share.online/practice/CJ-7?utm_source=github&utm_medium=tasks-repo) |
 | [Triples divisible by three](../math/HE-147.md) | medium | any | [▶](https://code-share.online/practice/HE-147?utm_source=github&utm_medium=tasks-repo) |
-| [Unique permutations](../recursion/CS-67.md) | medium | any | [▶](https://code-share.online/practice/CS-67?utm_source=github&utm_medium=tasks-repo) |
-| [Unique subsets](../recursion/CS-69.md) | medium | any | [▶](https://code-share.online/practice/CS-69?utm_source=github&utm_medium=tasks-repo) |
 | [Variable-length quantity (VLQ)](../math/EX-107.md) | medium | any | [▶](https://code-share.online/practice/EX-107?utm_source=github&utm_medium=tasks-repo) |
-| [Which worker took the job](../async/CS-590.md) | medium | Python, JavaScript, TypeScript | [▶](https://code-share.online/practice/CS-590?utm_source=github&utm_medium=tasks-repo) |
-| [Zigzag diagonal traversal](../matrices/CS-138.md) | medium | any | [▶](https://code-share.online/practice/CS-138?utm_source=github&utm_medium=tasks-repo) |
 | [Book store discounts](../dp/EX-2.md) | hard | any | [▶](https://code-share.online/practice/EX-2?utm_source=github&utm_medium=tasks-repo) |
 | [Box factory](../dp/CJ-57.md) | hard | any | [▶](https://code-share.online/practice/CJ-57?utm_source=github&utm_medium=tasks-repo) |
-| [City skyline key points](../search-sort/CS-93.md) | hard | any | [▶](https://code-share.online/practice/CS-93?utm_source=github&utm_medium=tasks-repo) |
 | [Deck of upgraded cards](../search-sort/CJ-98.md) | hard | any | [▶](https://code-share.online/practice/CJ-98?utm_source=github&utm_medium=tasks-repo) |
 | [Discarding card triples](../dp/CJ-92.md) | hard | any | [▶](https://code-share.online/practice/CJ-92?utm_source=github&utm_medium=tasks-repo) |
 | [Increasing subsequence through the k-th element](../dp/MBPP-306.md) | hard | any | [▶](https://code-share.online/practice/MBPP-306?utm_source=github&utm_medium=tasks-repo) |
-| [Job schedule with the least difficulty](../dp/CS-205.md) | hard | any | [▶](https://code-share.online/practice/CS-205?utm_source=github&utm_medium=tasks-repo) |
-| [Longest chain of nested envelopes](../dp/CS-90.md) | hard | any | [▶](https://code-share.online/practice/CS-90?utm_source=github&utm_medium=tasks-repo) |
 | [Maximum sum bitonic subsequence](../dp/MBPP-245.md) | hard | any | [▶](https://code-share.online/practice/MBPP-245?utm_source=github&utm_medium=tasks-repo) |
 | [Permutation from monotone run lengths](../trees-graphs/CJ-62.md) | hard | any | [▶](https://code-share.online/practice/CJ-62?utm_source=github&utm_medium=tasks-repo) |
-| [Popping balloons for the most coins](../dp/CS-79.md) | hard | any | [▶](https://code-share.online/practice/CS-79?utm_source=github&utm_medium=tasks-repo) |
 | [Smooth the pixels](../dp/CJ-51.md) | hard | any | [▶](https://code-share.online/practice/CJ-51?utm_source=github&utm_medium=tasks-repo) |
-| [Team calendar and a common free slot](../oop/CS-629.md) | hard | any | [▶](https://code-share.online/practice/CS-629?utm_source=github&utm_medium=tasks-repo) |
